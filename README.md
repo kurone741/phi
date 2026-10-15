@@ -1,5 +1,7 @@
+~[banner](images/banner.png)
+
 # phi archives <3
 
-a love letter of sorts to phigros :)
+a love letter of sorts to phigros
 
-![banner](images/banner.png)
+contains copies of my favorite charts and promo art ^^
